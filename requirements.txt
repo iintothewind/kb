@@ -1,0 +1,4 @@
+keybert
+fastapi[all]
+uvicorn[standard]
+content-size-limit-asgi
